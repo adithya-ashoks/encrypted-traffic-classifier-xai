@@ -1,7 +1,10 @@
-__pycache__/ 
-.ipynb_checkpoints/ 
-*.pyc 
-models/*.pkl 
-results/cic_darknet2020_cross_dataset_predictions.csv
-results/cic_darknet2020_cross_dataset_predictions.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+models/rf_model.pkl
+models/random_forest_balanced.pkl
+
+data/raw/Darknet.CSV
+
 results/cic_darknet2020_cross_dataset_predictions.csv
